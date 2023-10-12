@@ -9,8 +9,8 @@ The program shows the robot's motion as it searches the exit from the start posi
 ## Command
 To run this program, the following files should be in the same directory.
 
-drawapp-2.0.jar
-graphics.h
-graphics.c
-gcc -o maze maze.c graphics.c
+drawapp-2.0.jar\
+graphics.h\
+graphics.c\
+gcc -o maze maze.c graphics.c\
 ./maze | java -jar drawapp-2.0.jar
